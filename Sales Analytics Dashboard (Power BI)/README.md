@@ -49,7 +49,7 @@ It helps in understanding key metrics such as revenue, profit, customer behavior
 ---
 
 # 📸 Dashboard Preview  
-![Overview-Dashboard](./images/Exec-Dashboard.png)
-![Customer-Detail](./images/Customer-Detail.png)
-![Map](./images/Map.png)
-![Product-Detail](./images/Product-Detail.png)
+![Overview Dashboard](./images/Exec-Dashboard.png)  
+![Customer Detail](./images/Customer-Detail.png)  
+![Map](./images/Map.png)  
+![Product Detail](./images/Product-Detail.png)  
