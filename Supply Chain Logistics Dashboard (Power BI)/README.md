@@ -1,7 +1,7 @@
 # 📦 Supply Chain & Logistics Analytics Dashboard (Power BI)
 
 ## 📖 Project Overview
-This Power BI dashboard provides an end-to-end analysis of Samsung’s supply chain and logistics operations.  
+This Power BI dashboard provides an end-to-end analysis of Samsung’s supply chain and logistics operations using dummy data.  
 It integrates data across suppliers, inventory, shipments, and sales channels to deliver a unified view of operational efficiency, cost performance, and profitability.
 
 The goal of this project is to identify bottlenecks, optimize logistics performance, and support data-driven decision-making across the supply chain.
@@ -60,10 +60,16 @@ This dashboard enables stakeholders to:
 
 ## 📂 Repository Structure
 - `/data` → Raw and processed datasets  
-- `/pbix` → Power BI dashboard file  
+- `.pbix` → Power BI dashboard file  
 - `/images` → Dashboard screenshots and visuals  
 
 ---
 
-## 🖼️ Dashboard Preview
-(Add screenshot in project folder)
+## 📸 Dashboard Preview
+
+![Home](./images/Home.png)  
+![Overview Dashboard](./images/Dashboard.png)  
+![Supplier](./images/Supplier.png)  
+![Inventory&Production](./images/Inventory&Production.png)  
+![Shipment](./images/Shipment.png)  
+![Customer](./images/Customer.png)  
