@@ -98,8 +98,7 @@ The dashboard is structured as a \*\*Tableau Story\*\*, guiding viewers through 
 
 \###  📸 Dashboard Preview
 
-!\[Customer Segmentation Dashboard](./images/Dashboard.PNG)
-
+![Customer Segmentation Dashboard](./Customer Segmentation Dashboard (Tableau)/images/Dashboard.PNG)
 
 
 \###  📸 Story Preview
