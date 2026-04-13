@@ -1,4 +1,4 @@
-\# 👥 Customer Segmentation Dashboard (Tableau)
+# 👥 Customer Segmentation Dashboard (Tableau)
 
 
 
@@ -8,11 +8,11 @@ The dashboard analyzes \*\*demographic and financial patterns\*\* of customers a
 
 
 
-\---
+---
 
 
 
-\## 📊 Dashboard Insights
+## 📊 Dashboard Insights
 
 
 
