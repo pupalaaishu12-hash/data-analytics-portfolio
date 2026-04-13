@@ -40,13 +40,13 @@ This project analyzes an **E-commerce Purchases dataset** using Python libraries
 ## 🖼️ Images 
 
 
-!\[Purchases by Time of Day](./images/PurchasesByTimeOfDay.png)  
+![Purchases by Time of Day](./images/PurchasesByTimeOfDay.png)  
 
-!\[Customer Job Breakdown](./images/CustomerJobBreakdown.png)  
+![Customer Job Breakdown](./images/CustomerJobBreakdown.png)  
 
-!\[Credit Card Expiry by Year](./images/CreditCardExpiryByYear.png)  
+![Credit Card Expiry by Year](./images/CreditCardExpiryByYear.png)  
 
-!\[Top 10 Credit Card Providers](./images/Top10CreditCardProviders.png)
+![Top 10 Credit Card Providers](./images/Top10CreditCardProviders.png)
 
 
 ---
