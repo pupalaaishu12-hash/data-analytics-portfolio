@@ -104,7 +104,7 @@ The dashboard is structured as a \*\*Tableau Story\*\*, guiding viewers through 
 
 \###  📸 Story Preview
 
-!\[Customer Segmentation Story](/images/Storyline.PNG)
+!\[Customer Segmentation Story](./images/Storyline.PNG)
 
 
 
