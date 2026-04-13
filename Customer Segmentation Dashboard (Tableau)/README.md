@@ -2,9 +2,9 @@
 
 
 
-This repository showcases an interactive \*\*Customer Segmentation Dashboard\*\* built in Tableau.
+This repository showcases an interactive \*\*Customer Segmentation Dashboard\*\* built in Tableau.  
 
-The dashboard explores \*\*demographic and financial distributions\*\* of bank customers across the United Kingdom, with a strong focus on \*\*storytelling\*\* to highlight regional differences and customer attributes.
+The dashboard analyzes \*\*demographic and financial patterns\*\* of customers across the United Kingdom, using \*\*storytelling\*\* to highlight meaningful regional insights.
 
 
 
@@ -16,33 +16,41 @@ The dashboard explores \*\*demographic and financial distributions\*\* of bank c
 
 
 
-\- \*\*Regional Distribution\*\*:
+\### \*\*Regional Distribution\*\*
 
-&#x20; - England leads with 2,159 customers, followed by Scotland (1,124), Wales (520), and Northern Ireland (211).
+\- England leads with \*\*2,159 customers\*\*, followed by Scotland (\*\*1,124\*\*), Wales (\*\*520\*\*), and Northern Ireland (\*\*211\*\*).
 
-\- \*\*Financial Profile\*\*:
 
-&#x20; - Majority of customers fall into lower balance bins (15K–45K).
 
-\- \*\*Demographics\*\*:
+\### \*\*Financial Profile\*\*
 
-&#x20; - Gender split is nearly balanced (≈51% female, 49% male).
+\- Majority of customers fall into \*\*lower balance bins (15K–45K)\*\*.
 
-&#x20; - Age distribution peaks around 30–35 years, forming a bell-shaped curve.
 
-\- \*\*Job Classification\*\*:
 
-&#x20; - White Collar dominates (≈70%), followed by Blue Collar and Other categories.
+\### \*\*Demographics\*\*
 
-\- \*\*Regional Highlights\*\*:
+\- Gender split is nearly balanced (\*\*≈51% female, 49% male\*\*).  
 
-&#x20; - England: Strong white-collar representation.
+\- Age distribution peaks around \*\*30–35 years\*\*, forming a bell-shaped curve.
 
-&#x20; - Scotland: Male-heavy demographic in late 40s/early 50s.
 
-&#x20; - Wales: Above-average representation in specific segments.
 
-&#x20; - Northern Ireland: Majority female customers.
+\### \*\*Job Classification\*\*
+
+\- \*\*White Collar\*\* dominates (\~70%), followed by \*\*Blue Collar\*\* and \*\*Other\*\* job categories.
+
+
+
+\### \*\*Regional Highlights\*\*
+
+\- \*\*England:\*\* Strong white-collar representation.  
+
+\- \*\*Scotland:\*\* Male-heavy demographic around ages 45–55.  
+
+\- \*\*Wales:\*\* Higher representation in certain segments.  
+
+\- \*\*Northern Ireland:\*\* Majority female customers.
 
 
 
@@ -54,41 +62,41 @@ The dashboard explores \*\*demographic and financial distributions\*\* of bank c
 
 
 
-The dashboard is structured as a \*\*Tableau Story\*\*, guiding viewers through sequential insights:
+This project is built as a \*\*Tableau Story\*\*, presenting insights step-by-step:
 
 
 
-1\. \*\*Baseline Overview\*\*
+1\. \*\*Baseline Overview\*\*  
 
-&#x20;  - Total customers segmented by region.
+&#x20;  - Total customers by region.  
 
 &#x20;  - England has the largest customer base.
 
 
 
-2\. \*\*Regional Narratives\*\*
+2\. \*\*Regional Narratives\*\*  
 
-&#x20;  - England: Predominantly white-collar workers.
+&#x20;  - England: Predominantly white-collar workers.  
 
-&#x20;  - Scotland: Mostly male customers in mid-life age groups.
+&#x20;  - Scotland: Mostly mid-life male customers.  
 
-&#x20;  - Wales: Above-average representation in certain demographics.
+&#x20;  - Wales: Distinct demographic representation.  
 
 &#x20;  - Northern Ireland: Majority female customers.
 
 
 
-3\. \*\*Financial Distribution\*\*
+3\. \*\*Financial Distribution\*\*  
 
-&#x20;  - Balance distribution shows higher concentration in lower bins.
+&#x20;  - Higher concentration in lower balance bins.  
 
-&#x20;  - Decline in customer percentage as balance increases.
+&#x20;  - Customer percentage declines as balance increases.
 
 
 
-4\. \*\*Demographic Insights\*\*
+4\. \*\*Demographic Insights\*\*  
 
-&#x20;  - Gender split, age distribution, and job classification breakdown.
+&#x20;  - Gender, age, and job classification distribution.
 
 
 
@@ -96,15 +104,19 @@ The dashboard is structured as a \*\*Tableau Story\*\*, guiding viewers through 
 
 
 
-\###  📸 Dashboard Preview
-
-!\[Customer Segmentation Dashboard](images/Dashboard.PNG)
+\## 📸 Dashboard Preview
 
 
 
-\###  📸 Story Preview
+!\[Customer Segmentation Dashboard](./images/Dashboard.PNG)
 
-!\[Customer Segmentation Story](images/Storyline.PNG)
+
+
+\## 📸 Story Preview
+
+
+
+!\[Customer Segmentation Story](./images/Storyline.PNG)
 
 
 
@@ -116,9 +128,15 @@ The dashboard is structured as a \*\*Tableau Story\*\*, guiding viewers through 
 
 
 
-\- \*\*Tableau Storytelling\*\*: Sequential narrative across multiple dashboards.
+\- \*\*Tableau Storytelling\*\* – Multi-step narrative dashboards  
 
-\- \*\*Segmentation Analysis\*\*: Region, age, gender, job classification, and financial distribution.
+\- \*\*Segmentation Analysis\*\* – Region, age, gender, job, and finance  
 
-\- \*\*Data Visualization\*\*: Maps, bar charts, pie charts, and demographic breakdowns.
+\- \*\*Data Visualization\*\* – Maps, bar charts, histograms, pie charts  
+
+\- \*\*Data Interpretation\*\* – Identifying demographic and financial patterns  
+
+
+
+
 
