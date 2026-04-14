@@ -104,25 +104,13 @@ Email \& Display Ads require optimization before further investment.
 
 
 
-\###  Dashboard Overview (Aligned Visuals)
-
-
-
 !\[Dashboard Screenshot](./Executive-Marketing-Performance-Dashboard.png)
 
 
 
-\### Data Card (Executive Highlights)
+!\[Data Card](./data\_card.jpg)
 
 
 
-!\[Data Card](./data\_card.png)
-
-
-
-\### Dataset View (Campaign Performance)
-
-
-
-!\[Dataset Snapshot](./dataset-snapshot.png)
+!\[Dataset Snapshot](./dataset-snapshot.jpg)
 
