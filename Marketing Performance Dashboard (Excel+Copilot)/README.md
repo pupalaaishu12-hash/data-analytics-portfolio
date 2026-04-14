@@ -4,13 +4,11 @@
 
 \## 📌 Overview
 
-
-
-This project demonstrates how \*\*Excel\*\* combined with \*\*Copilot\*\* was used to build an executive-level marketing performance dashboard.  
+This project demonstrates how \*\*Excel\*\* combined with \*\*Copilot\*\* was used to build an executive-level marketing performance dashboard.
 
 
 
-It showcases ROI, revenue, and conversion efficiency across multiple campaigns and channels, enabling data-driven decision-making.  
+It showcases ROI, revenue, and conversion efficiency across multiple campaigns and channels, enabling data-driven decision-making.
 
 
 
@@ -24,13 +22,11 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🎯 Purpose
 
+\- Highlight how human expertise and Copilot collaboration accelerate insight generation.
 
+\- Showcase business impact through actionable recommendations.
 
-\- Highlight how human expertise and Copilot collaboration accelerate insight generation  
-
-\- Showcase business impact through actionable recommendations  
-
-\- Demonstrate \*\*visual alignment and formatting choices\*\* for clarity and professional presentation  
+\- Demonstrate \*\*visual alignment and formatting choices\*\* for clarity and professional presentation.
 
 
 
@@ -40,15 +36,13 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 📊 Key Metrics
 
+\- \*\*Total Revenue:\*\* ₹1.82 Cr
 
+\- \*\*Total Conversions:\*\* 4.24M
 
-\- \*\*Total Revenue:\*\* ₹1.82 Cr  
+\- \*\*Google Ads ROI:\*\* 99.7x (highest-performing channel)
 
-\- \*\*Total Conversions:\*\* 4.24M  
-
-\- \*\*Google Ads ROI:\*\* 99.7x (highest-performing channel)  
-
-\- \*\*Referral Program:\*\* Top revenue generator with highest value per click (RPC ₹233.32)  
+\- \*\*Referral Program:\*\* Top revenue generator with highest value per click (RPC ₹233.32)
 
 
 
@@ -58,15 +52,13 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🧑‍💻 Human Contribution
 
+\- Defined \*\*business KPIs\*\* (ROI, RPC, CPC, revenue vs spend).
 
+\- Identified underperforming campaigns (e.g., Festive Offer).
 
-\- Defined \*\*business KPIs\*\* (ROI, RPC, CPC, revenue vs spend)  
+\- Recommended \*\*channel-specific strategies\*\* (scale Google Ads, optimize Email \& Display Ads).
 
-\- Identified underperforming campaigns (e.g., Festive Offer)  
-
-\- Recommended \*\*channel-specific strategies\*\* (scale Google Ads, optimize Email \& Display Ads)  
-
-\- Designed \*\*visual layout and structure\*\* (aligned dashboards, clean tables, consistent chart placement)  
+\- Designed \*\*visual layout and structure\*\* (aligned dashboards, clean tables, consistent chart placement).
 
 
 
@@ -76,13 +68,11 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🤖 Copilot Contribution
 
+\- Assisted in \*\*data wrangling and formula generation\*\* in Excel.
 
+\- Accelerated \*\*insight extraction.\*\*
 
-\- Assisted in \*\*data wrangling and formula generation\*\* in Excel  
-
-\- Accelerated \*\*insight extraction\*\*  
-
-\- Supported refinement of \*\*executive highlights\*\* and recommendations  
+\- Supported refinement of \*\*executive highlights\*\* and recommendations.
 
 
 
@@ -92,15 +82,13 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 📈 Insights
 
+\- Google Ads is the strongest ROI driver and should be scaled.
 
+\- All channels are profitable; revenue significantly outweighs spend.
 
-\- Google Ads is the strongest ROI driver and should be scaled  
+\- Influencer \& Social Media are effective for launches and burst campaigns.
 
-\- All channels are profitable; revenue significantly outweighs spend  
-
-\- Influencer \& Social Media are effective for launches and burst campaigns  
-
-\- Email \& Display Ads require optimization before further investment  
+\- Email \& Display Ads require optimization before further investment.
 
 
 
@@ -112,23 +100,19 @@ The dataset consists of 300 rows and was created using Copilot.
 
 
 
-To visually demonstrate the dashboard and its recruiter-friendly clarity, screenshots are included below:
-
-
-
 \### 🔹 Dashboard Overview (Aligned Visuals)
 
-!\[Dashboard Screenshot](./images/Executive-Marketing-Performance-Dashboard.png)
+!\[Dashboard Screenshot](images/Executive-Marketing-Performance-Dashboard.png)
 
 
 
 \### 🔹 Data Card (Executive Highlights)
 
-!\[Data Card](./images/data\_card.png)
+!\[Data Card](images/data\_card.png)
 
 
 
 \### 🔹 Dataset View (Campaign Performance)
 
-!\[Dataset Snapshot](./images/dataset-snapshot.png)
+!\[Dataset Snapshot](images/dataset-snapshot.png)
 
