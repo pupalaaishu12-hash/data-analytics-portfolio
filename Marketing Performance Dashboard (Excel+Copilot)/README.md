@@ -15,7 +15,7 @@ The dataset consists of 300 rows and was created using Copilot.
 - Demonstrate **visual alignment and formatting choices** for clarity and professional presentation.
 
 
-# 🎯 Key Metrics  
+# 📊 Key Metrics  
 
 - **Total Revenue:** ₹1.82 Cr
 - **Total Conversions:** 4.24M
@@ -23,16 +23,28 @@ The dataset consists of 300 rows and was created using Copilot.
 - **Referral Program:** Top revenue generator with highest value per click (RPC ₹233.32)
 
 
+---
 
+## 🧑‍💻 Human Contribution
+- Defined **business KPIs** (ROI, RPC, CPC, revenue vs spend).
+- Identified underperforming campaigns (e.g., Festive Offer).
+- Recommended **channel-specific strategies** (scale Google Ads, optimize Email & Display Ads).
+- Designed **visual layout and structure** (aligned dashboards, clean tables, consistent chart placement).
 
+---
 
+## 🤖 Copilot Contribution
+- Assisted in **data wrangling and formula generation** in Excel.
+- Accelerated **insight extraction.**
+- Supported refinement of **executive highlights** and recommendations.
 
+---
 
-
-
-
-
-
+## 📈 Insights
+- Google Ads is the strongest ROI driver and should be scaled.
+- All channels are profitable; revenue significantly outweighs spend.
+- Influencer & Social Media are effective for launches and burst campaigns.
+- Email & Display Ads require optimization before further investment.
 
 
 ---
