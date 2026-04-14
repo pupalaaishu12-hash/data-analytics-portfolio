@@ -4,6 +4,8 @@
 
 \## 📌 Overview
 
+
+
 This project demonstrates how \*\*Excel\*\* combined with \*\*Copilot\*\* was used to build an executive-level marketing performance dashboard.
 
 
@@ -22,6 +24,8 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🎯 Purpose
 
+
+
 \- Highlight how human expertise and Copilot collaboration accelerate insight generation.
 
 \- Showcase business impact through actionable recommendations.
@@ -35,6 +39,8 @@ The dataset consists of 300 rows and was created using Copilot.
 
 
 \## 📊 Key Metrics
+
+
 
 \- \*\*Total Revenue:\*\* ₹1.82 Cr
 
@@ -52,6 +58,8 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🧑‍💻 Human Contribution
 
+
+
 \- Defined \*\*business KPIs\*\* (ROI, RPC, CPC, revenue vs spend).
 
 \- Identified underperforming campaigns (e.g., Festive Offer).
@@ -68,6 +76,8 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \## 🤖 Copilot Contribution
 
+
+
 \- Assisted in \*\*data wrangling and formula generation\*\* in Excel.
 
 \- Accelerated \*\*insight extraction.\*\*
@@ -81,6 +91,8 @@ The dataset consists of 300 rows and was created using Copilot.
 
 
 \## 📈 Insights
+
+
 
 \- Google Ads is the strongest ROI driver and should be scaled.
 
@@ -102,17 +114,17 @@ The dataset consists of 300 rows and was created using Copilot.
 
 \### 🔹 Dashboard Overview (Aligned Visuals)
 
-!\[Dashboard Screenshot](images/Executive-Marketing-Performance-Dashboard.png)
+!\[Dashboard Screenshot](./Executive-Marketing-Performance-Dashboard.png)
 
 
 
 \### 🔹 Data Card (Executive Highlights)
 
-!\[Data Card](images/data\_card.png)
+!\[Data Card](./data\_card.png)
 
 
 
 \### 🔹 Dataset View (Campaign Performance)
 
-!\[Dataset Snapshot](images/dataset-snapshot.png)
+!\[Dataset Snapshot](./dataset-snapshot.png)
 
