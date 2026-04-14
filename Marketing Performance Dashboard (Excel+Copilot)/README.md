@@ -1,12 +1,10 @@
-📊 Marketing Performance Dashboard (Excel + Copilot)
+\# 📊 Marketing Performance Dashboard (Excel + Copilot)
 
 
 
+\## 📌 Overview
 
-
-📌 Overview
-
-This project demonstrates how Excel combined with Copilot was used to build an executive-level marketing performance dashboard.
+This project demonstrates how \*\*Excel\*\* combined with \*\*Copilot\*\* was used to build an executive-level marketing performance dashboard.
 
 
 
@@ -18,91 +16,87 @@ The dataset consists of 300 rows and was created using Copilot.
 
 
 
-🎯 Purpose
-
-Highlight how human expertise and Copilot collaboration accelerate insight generation.
+\---
 
 
 
-Showcase business impact through actionable recommendations.
+\## 🎯 Purpose
+
+\- Highlight how human expertise and Copilot collaboration accelerate insight generation.
+
+\- Showcase business impact through actionable recommendations.
+
+\- Demonstrate \*\*visual alignment and formatting choices\*\* for clarity and professional presentation.
 
 
 
-Demonstrate visual alignment and formatting choices for clarity and professional presentation.
+\---
 
 
 
-📊 Key Metrics
+\## 📊 Key Metrics
 
-Total Revenue: ₹1.82 Cr
+\- \*\*Total Revenue:\*\* ₹1.82 Cr
 
+\- \*\*Total Conversions:\*\* 4.24M
 
+\- \*\*Google Ads ROI:\*\* 99.7x (highest-performing channel)
 
-Total Conversions: 4.24M
-
-
-
-Google Ads ROI: 99.7x (highest-performing channel)
+\- \*\*Referral Program:\*\* Top revenue generator with highest value per click (RPC ₹233.32)
 
 
 
-Referral Program: Top revenue generator with highest value per click (RPC ₹233.32)
+\---
 
 
 
-🧑‍💻 Human Contribution
+\## 🧑‍💻 Human Contribution
 
-Defined business KPIs (ROI, RPC, CPC, revenue vs spend).
+\- Defined \*\*business KPIs\*\* (ROI, RPC, CPC, revenue vs spend).
 
+\- Identified underperforming campaigns (e.g., Festive Offer).
 
+\- Recommended \*\*channel-specific strategies\*\* (scale Google Ads, optimize Email \& Display Ads).
 
-Identified underperforming campaigns (e.g., Festive Offer).
-
-
-
-Recommended channel-specific strategies (scale Google Ads, optimize Email \& Display Ads).
+\- Designed \*\*visual layout and structure\*\* (aligned dashboards, clean tables, consistent chart placement).
 
 
 
-Designed visual layout and structure (aligned dashboards, clean tables, consistent chart placement).
+\---
 
 
 
-🤖 Copilot Contribution
+\## 🤖 Copilot Contribution
 
-Assisted in data wrangling and formula generation in Excel.
+\- Assisted in \*\*data wrangling and formula generation\*\* in Excel.
 
+\- Accelerated \*\*insight extraction.\*\*
 
-
-Accelerated insight extraction.
-
-
-
-Supported refinement of executive highlights and recommendations.
+\- Supported refinement of \*\*executive highlights\*\* and recommendations.
 
 
 
-📈 Insights
-
-Google Ads is the strongest ROI driver and should be scaled.
+\---
 
 
 
-All channels are profitable; revenue significantly outweighs spend.
+\## 📈 Insights
+
+\- Google Ads is the strongest ROI driver and should be scaled.
+
+\- All channels are profitable; revenue significantly outweighs spend.
+
+\- Influencer \& Social Media are effective for launches and burst campaigns.
+
+\- Email \& Display Ads require optimization before further investment.
 
 
 
-Influencer \& Social Media are effective for launches and burst campaigns.
-
-
-
-Email \& Display Ads require optimization before further investment.
+\---
 
 
 
 \## 📸 Screenshots
-
-
 
 !\[Dashboard Screenshot](./Executive-Marketing-Performance-Dashboard.png)
 
@@ -113,4 +107,6 @@ Email \& Display Ads require optimization before further investment.
 
 
 !\[Dataset Snapshot](./dataset-snapshot.jpg)
+
+
 
